@@ -1,0 +1,125 @@
+Folder name : som\cluster 1 of 4
+  Mean: 117.73123688864446
+  Median: 115.16825712780282
+  Standard Deviation: 23.16352017049628
+  Variance: 536.5486666889881
+
+
+
+
+
+Folder name : som\cluster 2 of 4
+  Mean: 109.30506755095239
+  Median: 107.68947006321102
+  Standard Deviation: 23.512028472479436
+  Variance: 552.8154828906837
+
+
+
+
+
+Folder name : som\cluster 3 of 4
+  Mean: 143.24203041139958
+  Median: 142.47055986661752
+  Standard Deviation: 21.9972584950274
+  Variance: 483.8793812970551
+
+
+
+
+
+Folder name : som\cluster 4 of 4
+  Mean: 76.71768778311163
+  Median: 74.76437833748074
+  Standard Deviation: 26.492181501841685
+  Variance: 701.8356807265228
+
+
+
+
+
+Folder name : som\cluster 4 of 4
+  Mean: 76.71768778311163
+  Median: 74.76437833748074
+  Standard Deviation: 26.492181501841685
+  Variance: 701.8356807265228
+
+
+
+
+
+Folder name : kmeans\cluster 1 of 4
+  Mean: 69.03888608780868
+  Median: 65.51124463834728
+  Standard Deviation: 25.89185099649021
+  Variance: 670.3879480244511
+
+
+
+
+
+Folder name : kmeans\cluster 2 of 4
+  Mean: 130.5888339891614
+  Median: 128.12003254539226
+  Standard Deviation: 23.82857830847918
+  Variance: 567.8011442033245
+
+
+
+
+
+Folder name : kmeans\cluster 3 of 4
+  Mean: 97.58907981468198
+  Median: 94.0273445855166
+  Standard Deviation: 23.29228324728553
+  Variance: 542.5304588717781
+
+
+
+
+
+Folder name : kmeans\cluster 4 of 4
+  Mean: 108.5707134118629
+  Median: 106.8660457413537
+  Standard Deviation: 24.52547316626337
+  Variance: 601.4988340291047
+
+
+
+
+
+Folder name : birch\cluster 1 of 4
+  Mean: 112.89649711421872
+  Median: 111.30999395687667
+  Standard Deviation: 25.682490025898687
+  Variance: 659.5902939303855
+
+
+
+
+
+Folder name : birch\cluster 2 of 4
+  Mean: 91.2392524115813
+  Median: 88.11772920984686
+  Standard Deviation: 24.558652925749904
+  Variance: 603.1274335274444
+
+
+
+
+
+Folder name : birch\cluster 3 of 4
+  Mean: 127.95441264420867
+  Median: 125.41843215823351
+  Standard Deviation: 24.566130511539242
+  Variance: 603.4947683099792
+
+
+
+
+
+Folder name : birch\cluster 4 of 4
+  Mean: 69.4343343799727
+  Median: 66.02354089400741
+  Standard Deviation: 26.814995941561392
+  Variance: 719.0440073459539

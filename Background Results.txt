@@ -1,0 +1,115 @@
+Folder name : som\cluster 1 of 4
+  Mean: 201.40445481361817
+  Median: 206.60927339553294
+  Standard Deviation: 26.931796695215073
+  Variance: 725.3216732323975
+
+
+
+
+
+Folder name : som\cluster 2 of 4
+  Mean: 135.32302293370822
+  Median: 135.53841238633572
+  Standard Deviation: 33.981441558509225
+  Variance: 1154.738370394378
+
+
+
+
+
+Folder name : som\cluster 3 of 4
+  Mean: 174.58373076492424
+  Median: 175.47170300021585
+  Standard Deviation: 30.510373981436764
+  Variance: 930.8829204871334
+
+
+
+
+
+Folder name : som\cluster 4 of 4
+  Mean: 80.53132177503771
+  Median: 79.38886468437161
+  Standard Deviation: 38.58460248831363
+  Variance: 1488.771549181178
+
+
+
+
+
+Folder name : kmeans\cluster 1 of 4
+  Mean: 153.22036316816028
+  Median: 152.26569123828
+  Standard Deviation: 34.88762916234497
+  Variance: 1217.1466685693035
+
+
+
+
+
+Folder name : kmeans\cluster 2 of 4
+  Mean: 194.74839278322594
+  Median: 197.35380105096587
+  Standard Deviation: 27.14282959235693
+  Variance: 736.7331982797269
+
+
+
+
+
+Folder name : kmeans\cluster 3 of 4
+  Mean: 115.32116574775057
+  Median: 115.39647957103716
+  Standard Deviation: 35.557329819615475
+  Variance: 1264.3237039009157
+
+
+
+
+
+Folder name : kmeans\cluster 4 of 4
+  Mean: 64.19770604679073
+  Median: 63.874530428249436
+  Standard Deviation: 30.856128345613165
+  Variance: 952.1006564809521
+
+
+
+
+
+Folder name : birch\cluster 1 of 4
+  Mean: 127.69046004858637
+  Median: 126.89777347531462
+  Standard Deviation: 41.09805971863439
+  Variance: 1689.0505126364383
+
+
+
+
+
+Folder name : birch\cluster 2 of 4
+  Mean: 181.29997713084606
+  Median: 182.44012605042016
+  Standard Deviation: 28.8255758997188
+  Variance: 830.9138259504492
+
+
+
+
+
+Folder name : birch\cluster 3 of 4
+  Mean: 69.80779382128442
+  Median: 69.80754412687035
+  Standard Deviation: 34.17664619015769
+  Variance: 1168.0431448072202
+
+
+
+
+
+Folder name : birch\cluster 4 of 4
+  Mean: 205.01277587026775
+  Median: 212.25228294464736
+  Standard Deviation: 25.26647952981326
+  Variance: 638.3949878304726
